@@ -1,0 +1,48 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-cancer---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-colon---primary.py
+inputModule4:
+  class: File
+  path: python/rectosigmoid-primary-malignancy_colorectal-and-anus---primary.py
+inputModule5:
+  class: File
+  path: python/vpersonal-primary-malignancy_colorectal-and-anus---primary.py
+inputModule6:
+  class: File
+  path: python/canal-primary-malignancy_colorectal-and-anus---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-neoplasm---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-rectum---primary.py
+inputModule9:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-caecum---primary.py
+inputModule10:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-flexure---primary.py
+inputModule11:
+  class: File
+  path: python/other-primary-malignancy_colorectal-and-anus---primary.py
+inputModule12:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-carcinoma---primary.py
+inputModule13:
+  class: File
+  path: python/anus---primary.py
+inputModule14:
+  class: File
+  path: python/primary-malignancy_colorectal-and-anus-history---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
