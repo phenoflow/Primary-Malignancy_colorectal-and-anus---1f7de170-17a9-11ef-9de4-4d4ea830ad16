@@ -41,8 +41,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: primary-malignancy_colorectal-and-anus-colon---primary/output
-  vpersonal-primary-malignancy_colorectal-and-anus---primary:
-    run: vpersonal-primary-malignancy_colorectal-and-anus---primary.cwl
+  personal-primary-malignancy_colorectal-and-anus---primary:
+    run: personal-primary-malignancy_colorectal-and-anus---primary.cwl
     out:
     - output
     in:
@@ -62,7 +62,7 @@ steps:
         source: inputModule6
       potentialCases:
         id: potentialCases
-        source: vpersonal-primary-malignancy_colorectal-and-anus---primary/output
+        source: personal-primary-malignancy_colorectal-and-anus---primary/output
   primary-malignancy_colorectal-and-anus-neoplasm---primary:
     run: primary-malignancy_colorectal-and-anus-neoplasm---primary.cwl
     out:
