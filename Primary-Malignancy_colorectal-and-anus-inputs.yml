@@ -15,7 +15,7 @@ inputModule4:
   path: python/rectosigmoid-primary-malignancy_colorectal-and-anus---primary.py
 inputModule5:
   class: File
-  path: python/vpersonal-primary-malignancy_colorectal-and-anus---primary.py
+  path: python/personal-primary-malignancy_colorectal-and-anus---primary.py
 inputModule6:
   class: File
   path: python/canal-primary-malignancy_colorectal-and-anus---primary.py
